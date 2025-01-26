@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on innovative IT projects, especially those related to cybersecurity, AI, and open-source databases.  
 - 📫 How to reach me: LinkedIn https://www.linkedin.com/in/ayub-mohamud-233772305/
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I’m passionate about using technology to solve real-world problems, especially in healthcare and security. I wanna be apart of something special.
+- ⚡ Fun fact: I like reading novels.
 
 <!---
 Ayubm22544/Ayubm22544 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
